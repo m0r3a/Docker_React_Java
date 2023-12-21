@@ -4,6 +4,8 @@ WORKDIR /java
 
 COPY . .
 
+RUN ./mvnw clean install
+
 EXPOSE 8080
 
 CMD ["./mvnw", "spring-boot:run"]

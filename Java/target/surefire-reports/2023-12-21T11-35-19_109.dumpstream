@@ -1,0 +1,5 @@
+# Created at 2023-12-21T11:35:20.756
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Docker_React_Java\Java\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
