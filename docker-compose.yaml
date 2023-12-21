@@ -1,0 +1,18 @@
+version: '3.8'
+services:
+  react:
+    build: ./React
+    container_name: react_c
+    ports:
+      - '3000:3000'
+    volumes:
+      - ./React:/react
+    stdin_open: true
+    tty: true
+  java:
+    build: ./Java
+    container_name: java_c
+    ports:
+      - '8080:8080'
+    volumes:
+      - ./Java:/java

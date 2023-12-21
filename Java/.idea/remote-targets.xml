@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <option name="projectDefaultTargetUuid" value="adb913cb-b54b-46be-bb2d-f175bf20cc96" />
+    <targets>
+      <target name="java" type="docker-compose" uuid="adb913cb-b54b-46be-bb2d-f175bf20cc96">
+        <config>
+          <option name="targetPlatform">
+            <TargetPlatform />
+          </option>
+          <option name="configurationFiles">
+            <list>
+              <option value="D:\WebDev\React_Java_Docker\docker-compose.yaml" />
+            </list>
+          </option>
+          <option name="serviceName" value="java" />
+        </config>
+        <ContributedStateBase type="JavaLanguageRuntime">
+          <config>
+            <option name="homePath" value="/opt/openjdk-19" />
+            <option name="javaVersionString" value="19-ea" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
