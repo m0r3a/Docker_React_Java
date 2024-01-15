@@ -9,15 +9,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/React_Java/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/React_Java/StudentController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/React_Java/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/React_Java/StudentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/React_Java/DatabaseLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/React_Java/DatabaseLoader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/React_Java/ReactJavaApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/React_Java/ReactJavaApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/React_Java/Student$Grade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/React_Java/Student$Grade.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/React_Java/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/React_Java/Student.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/React_Java/StudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/React_Java/StudentController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/React_Java/StudentRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/React_Java/StudentRepository.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/React_Java/StudentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/React_Java/StudentService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/built/bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/React_Java/ReactJavaApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/example/React_Java/ReactJavaApplicationTests.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../React/src/components/Student.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../React/src/components/Student.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../React/src/components/StudentList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../React/src/components/StudentList.jsx" afterDir="false" />
     </list>
@@ -154,7 +147,7 @@
       <workItem from="1703129733540" duration="305000" />
       <workItem from="1703141495867" duration="57000" />
       <workItem from="1703146264868" duration="1124000" />
-      <workItem from="1705247040522" duration="4919000" />
+      <workItem from="1705247040522" duration="5655000" />
     </task>
     <servers />
   </component>
