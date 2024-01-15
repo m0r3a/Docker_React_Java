@@ -94,7 +94,6 @@ function StudentList({ students, setStudents }) {
               </select>
             </td>
             <td>
-              {/* Display the "Save" button */}
               <button onClick={handleSaveStudent}>Save</button>
             </td>
           </tr>
